@@ -1,6 +1,6 @@
 package com;
 
-public class Three {
+public class Test3 {
 //Intger Caching 
 	private static void test1(Integer i, Integer j) {
 		if (i == j) 

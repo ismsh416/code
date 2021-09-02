@@ -1,6 +1,6 @@
 package com;
 
-public class One {
+public class Test1 {
 	private static void StrtoNum(String s) {
 		int len = s.length();
 		int num = 0;

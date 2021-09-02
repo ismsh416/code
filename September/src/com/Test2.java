@@ -1,6 +1,6 @@
 package com;
 //Print 1 to 10o with out using any number
-public class Two {
+public class Test2 {
 
 	public static void main(String[] args) {
 		int x='A'/'A';
