@@ -1,6 +1,5 @@
 package com;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //i/p=abcde o/p=131a2bc5e8
@@ -41,6 +40,7 @@ public class Test6 {
 		// Fibnacco(String s){
 
 		fibno(Str);
+		sc.close();
 
 	}
 
