@@ -1,5 +1,4 @@
 package com;
-
 public class Test1 {
 	private static void StrtoNum(String s) {
 		int len = s.length();
@@ -10,6 +9,7 @@ public class Test1 {
 			// 0*10+1=1
 			// 1*10+2=12
 			// 12*10+3=123
+			
 
 		}
 		System.out.println(num + 10);
@@ -20,8 +20,6 @@ public class Test1 {
 		int z=Integer.parseInt(a); //we should not use inbuilt functions
 		StrtoNum(a);
 		System.out.println(z);
-
-		// System.out.println(a.charAt(0));
-	}
-
+		//without inbuild function adding string
+}
 }
