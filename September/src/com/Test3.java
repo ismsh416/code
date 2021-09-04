@@ -1,7 +1,7 @@
 package com;
 
 public class Test3 {
-//Intger Caching 
+//comparing Integer or Integer Caching 
 	private static void test1(Integer i, Integer j) {
 		if (i == j) 
 			{
