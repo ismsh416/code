@@ -2,7 +2,7 @@ package com;
 
 public class Test5 {
 
-	//To Print ASCI value of a string
+	//To Print ASCI value of a given string
 		public static void main(String[] args) {
 			String S = "BBASSSRPPPOCCBdcbaa";
 			for (int i = 0; i < S.length(); i++) {
