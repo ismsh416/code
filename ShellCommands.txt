@@ -1,0 +1,11 @@
+uniq -c |cut -c 7- //remove the space from result where 7- it cuts 7 spaces(basically 7 space will come for cmd results)
+uniq -i -c |cut -c 7-  //ignoring cases senistive 
+uniq -u  //eliminates consecutive repetitions
+ipconfig |grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" //to print only ipaddress
+sed -n '3,7p' file  //cut some portion of file 3rd line to 7th line
+basename /etc/ftp  //prints ftp directory
+who //list of users logged in
+shift //shift one cell to other ./script a b c  
+grep -E -o "([0-9]{1,3}[\.]){3}[0-9]{1,3}" logfile  | sort | uniq -c | sort //best for ipaddress
+[-s file] //to check file is available or not
+
