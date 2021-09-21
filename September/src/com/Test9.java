@@ -1,5 +1,5 @@
 package com;
-//URL response code checking
+//URL validation by response code checking
 import java.net.HttpURLConnection;
 import java.net.URL;
 
