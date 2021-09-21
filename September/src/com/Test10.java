@@ -3,7 +3,7 @@ package com;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-//sorting and removing duplicates
+//sorting and removing duplicates in array
 //for extra i have opted arraycopy to merge array instead two for loops
 public class Test10 {
 
