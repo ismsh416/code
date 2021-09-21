@@ -10,8 +10,8 @@ public class Test13 {
 			System.out.print(str.charAt(i));
 		}
 		System.err.println("\nwith method ");
-		System.out.println("buffer : " + sb.reverse());
-		System.out.println("builder: " + sb1.reverse());
+		System.out.println("bybuffer : " + sb.reverse());
+		System.out.println("bybuilder: " + sb1.reverse());
 	}
 
 	public static void main(String[] args) {
