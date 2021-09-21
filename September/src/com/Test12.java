@@ -11,7 +11,7 @@ public class Test12 {
 			}
 			System.out.println("---------------");
 		}
-
+//here by input
 		/*
 		 * Scanner sc = new Scanner(System.in); while(true) {
 		 * System.err.print("enter num;"); int m=sc.nextInt(); for (int i = 1; i <= 10;
