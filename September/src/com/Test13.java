@@ -1,7 +1,7 @@
 package com;
 
 public class Test13 {
-	//# reversing string below using with method and without
+	//#reversing string below using with method and without
 	public static void StrRev(String str) {
 		StringBuffer sb = new StringBuffer(str);
 		StringBuilder sb1 = new StringBuilder(str);

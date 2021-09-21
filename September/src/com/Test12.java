@@ -1,7 +1,7 @@
 package com;
 
 import java.util.Scanner;
-//# Simple Table program
+//#Simple Table program
 public class Test12 {
 
 	public static void main(String[] args) {
